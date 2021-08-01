@@ -1,0 +1,15 @@
+fork : clone repo tapi di github (mirip dengan clone local)
+lalu clone repo fork nya
+contoh: git clone https://github.com/muhammadikbal21/basic-git.git (ini repo fork)
+
+repo asli nama remotenya upstream
+repo fork nama remotenya origin
+
+git remote -v : liat nama remote dan link remotenya
+git remote --help : liat perintah dari git remote
+
+pull request: mereview perubahan yang telah di push untuk di merge nantinya
+
+
+bikin branch di fork lalu push
+
