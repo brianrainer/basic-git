@@ -9,7 +9,9 @@ git remote -v : liat nama remote dan link remotenya
 git remote --help : liat perintah dari git remote
 
 pull request: mereview perubahan yang telah di push untuk di merge nantinya
-
+1. setelah dipush, pilih menu pull request di halaman github
+2. pilih new pull request
+3. pilih branch yang kita inginkan
 
 bikin branch di fork lalu push
 
